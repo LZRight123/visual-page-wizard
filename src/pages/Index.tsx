@@ -1,5 +1,5 @@
 
-import React, { useEffect, useRef } from 'react';
+import { useEffect, useRef } from 'react';
 import BikeIcon from '../components/BikeIcon';
 import QRCode from '../components/QRCode';
 
@@ -40,7 +40,7 @@ const Index = () => {
               </h1>
               
               <p className="text-xl leading-relaxed">
-                大家好呀！ 作为一枚AI工具尝鲜达人，今天来给大家分享一下最近很火的Manus那些事儿～ <span className="inline-block">🧐</span>
+                大家好呀！这是改的 lovable 作为一枚AI工具尝鲜达人，今天来给大家分享一下最近很火的Manus那些事儿～ <span className="inline-block">🧐</span>
               </p>
             </div>
           </div>
